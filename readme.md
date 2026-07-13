@@ -1,10 +1,10 @@
 # Web-Scraped Grocery Pricing Pipeline & Unsupervised Market Segmentation
-Here is that description framed as a production-grade, real-world data engineering narrative. This is structured to sound like a high-impact portfolio project or a corporate case study showcasing how you handled live, messy data scraped directly from Freshco's production website.
 
-Project Overview: Real-Time Freshco Competitor Intelligence Pipeline
+**Project Overview: Real-Time Freshco Competitor Intelligence Pipeline**
+
 Built an automated, end-to-end data engineering and machine learning pipeline that orchestrates the daily ingestion of live, web-scraped grocery data from Freshco’s production site. The system systematically resolves business-critical pricing errors, extracts structured product attributes from unstructured text, and dynamically segments inventory using unsupervised machine learning.
 
-🛠️ Detailed Pipeline Architecture
+- Detailed Pipeline Architecture
 1. Live Web Ingestion & Orchestration
 The Process: Designed a dynamic web-scraping layer configured to simulate real-time user requests across Freshco's live digital storefront.
 

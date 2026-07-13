@@ -1,0 +1,251 @@
+name,onSale,price,salePrice,Pack_Quantity,Unit_Size,price_flag,Regular_Price,Current_Price,Dollar_Savings,Discount_Percent,Is_Deep_Discount,Price_Cluster
+Ocean Spray Juice Cran-Promegranate,True,3.99,4.49,1,1.89 L,INVERTED_SEMANTICS,4.49,3.99,0.5,11.135857461024498,0,1
+Canada Dry Soft Drink Ginger Beer,True,4.79,4.79,6,222 ML,EQUAL_PRICES_FAKE_SALE,4.79,4.79,0.0,0.0,0,1
+Jarritos Soft Drink Mandarine,True,2.49,2.49,1,370 ML,EQUAL_PRICES_FAKE_SALE,2.49,2.49,0.0,0.0,0,1
+Ahmad Tea Cardamom,True,9.29,9.99,1,454 G,INVERTED_SEMANTICS,9.99,9.29,0.7000000000000011,7.007007007007017,0,0
+Matt & Steve's Caesar Mix Original Lightly Spiced,True,1.2,4.99,1,1.36 L,INVERTED_SEMANTICS,4.99,1.2,3.79,75.95190380761522,1,1
+Grace Fruit Juice Tropical Rhythms Sorrel Ginger,True,2.29,2.29,1,473 ML,EQUAL_PRICES_FAKE_SALE,2.29,2.29,0.0,0.0,0,1
+Mott's Juice Garden Cocktail Low Sodium,True,1.3,5.29,1,1.89 L,INVERTED_SEMANTICS,5.29,1.3,3.99,75.42533081285444,1,1
+Perrier Carbonated Treated Water,True,2.29,2.29,1,1 L,EQUAL_PRICES_FAKE_SALE,2.29,2.29,0.0,0.0,0,1
+Kicking Horse Coffee Organic Whole Bean Coffee Three Sisters Medium Roast,True,32.99,32.99,1,850 G,EQUAL_PRICES_FAKE_SALE,32.99,32.99,0.0,0.0,0,2
+Minute Maid Tropical Punch Juice,True,3.29,3.29,1,1.75 L,EQUAL_PRICES_FAKE_SALE,3.29,3.29,0.0,0.0,0,1
+Montellier Carbonated Natural Spring Water,True,1.25,1.49,1,1 L,INVERTED_SEMANTICS,1.49,1.25,0.24,16.10738255033557,1,1
+Oasis Hydrafruit Juice Boxes Peach,True,4.79,4.79,8,200 ML,EQUAL_PRICES_FAKE_SALE,4.79,4.79,0.0,0.0,0,1
+Mio Electrolyte* Drink Mix Berry Burst,True,3.49,3.49,1,48 ML,EQUAL_PRICES_FAKE_SALE,3.49,3.49,0.0,0.0,0,1
+Compliments Sparkling Water Root Beer,True,5.99,5.99,12,355 ML,EQUAL_PRICES_FAKE_SALE,5.99,5.99,0.0,0.0,0,1
+BioSteel High Protein Drink Vanilla Milkshake,True,12.99,12.99,4,325 ML,EQUAL_PRICES_FAKE_SALE,12.99,12.99,0.0,0.0,0,0
+Red Bull Energy Drink Sugar Free,True,4.49,4.49,1,355 ML,EQUAL_PRICES_FAKE_SALE,4.49,4.49,0.0,0.0,0,1
+Celsius Energy Drink Sunset Vibe No Sugar Sparkling Mango Passion Fruit,True,3.29,3.29,1,355 ML,EQUAL_PRICES_FAKE_SALE,3.29,3.29,0.0,0.0,0,1
+Red Bull Sugar-Free Energy Drink The Summer Edition Sudachi Lime,True,5.29,5.29,1,473 ML,EQUAL_PRICES_FAKE_SALE,5.29,5.29,0.0,0.0,0,1
+Red Bull Energy Drink Pink Edition Wild Berries,True,4.49,4.49,1,355 ML,EQUAL_PRICES_FAKE_SALE,4.49,4.49,0.0,0.0,0,1
+Tea India Tea Orange Pekoe Black Tea,True,11.99,11.99,1,216 EA,EQUAL_PRICES_FAKE_SALE,11.99,11.99,0.0,0.0,0,0
+Compliments Sparkling Water Fizzy Pineapple Coconut,True,1.0,1.0,1,1 L,EQUAL_PRICES_FAKE_SALE,1.0,1.0,0.0,0.0,0,1
+Oasis Juice Apple,True,2.79,2.79,1,960 ML,EQUAL_PRICES_FAKE_SALE,2.79,2.79,0.0,0.0,0,1
+Maison Perrier Sparkling Water Carbonated Unflavoured,True,8.49,8.49,8,330 ML,EQUAL_PRICES_FAKE_SALE,8.49,8.49,0.0,0.0,0,0
+Compliments Juice Blend Orange Strawberry Banana,True,4.49,4.49,1,1.75 L,EQUAL_PRICES_FAKE_SALE,4.49,4.49,0.0,0.0,0,1
+Sanpellegrino CIAO! Flavoured Sparkling Water Blood Orange,True,7.99,7.99,6,330 ML,EQUAL_PRICES_FAKE_SALE,7.99,7.99,0.0,0.0,0,0
+Simply Orange Juice,True,6.99,6.99,1,1.36 L,EQUAL_PRICES_FAKE_SALE,6.99,6.99,0.0,0.0,0,1
+San Pellegrino Melongrano Arancia Sparkling Pomegranate & Orange,True,7.99,7.99,6,330 ML,EQUAL_PRICES_FAKE_SALE,7.99,7.99,0.0,0.0,0,0
+BioSteel Sports Drink White Freeze,True,2.0,2.49,1,500 ML,INVERTED_SEMANTICS,2.49,2.0,0.4900000000000002,19.678714859437758,1,1
+Pepsi Soft Drink Zero Sugar,True,7.99,8.99,12,355 ML,INVERTED_SEMANTICS,8.99,7.99,1.0,11.123470522803114,0,0
+Gatorade Zero Sports Drink Apple Burst,True,1.2,7.49,8,355 ML,INVERTED_SEMANTICS,7.49,1.2,6.29,83.97863818424565,1,1
+Montellier Carbonated Natural Spring Water Lime,True,1.2,7.49,10,355 ML,INVERTED_SEMANTICS,7.49,1.2,6.29,83.97863818424565,1,1
+Nescafé Rich Instant Coffee,True,18.99,18.99,1,475 G,EQUAL_PRICES_FAKE_SALE,18.99,18.99,0.0,0.0,0,0
+Del Monte Juice Peach Nectar,True,1.0,2.79,1,960 ML,INVERTED_SEMANTICS,2.79,1.0,1.79,64.15770609318997,1,1
+Melitta Coffee Filters White Basket Style 100 Pack,True,2.99,2.99,1,Undetermined,EQUAL_PRICES_FAKE_SALE,2.99,2.99,0.0,0.0,0,1
+Compliments Cocktail Juice Raspberry Cranberry,True,1.25,4.25,1,1.89 L,INVERTED_SEMANTICS,4.25,1.25,3.0,70.58823529411765,1,1
+Compliments Choose Up Soft Drink Lemon Lime,True,5.99,6.49,12,355 ML,INVERTED_SEMANTICS,6.49,5.99,0.5,7.704160246533127,0,1
+Twinings Herbal Tea Pure Camomile 20 Tea Bags,True,1.05,5.49,1,Undetermined,INVERTED_SEMANTICS,5.49,1.05,4.44,80.87431693989072,1,1
+Gatorade Sports Drink Glacier Cherry,True,1.2,7.49,6,591 ML,INVERTED_SEMANTICS,7.49,1.2,6.29,83.97863818424565,1,1
+Mountain Dew Soft Drink,True,7.99,8.99,12,355 ML,INVERTED_SEMANTICS,8.99,7.99,1.0,11.123470522803114,0,0
+Folgers Coffee Pods Gourmet Selections Biscotti Vanilla,True,22.99,22.99,1,30 K-CUPS,EQUAL_PRICES_FAKE_SALE,22.99,22.99,0.0,0.0,0,2
+Dr Pepper Zero Sugar Soft Drink,True,7.99,8.99,12,355 ML,INVERTED_SEMANTICS,8.99,7.99,1.0,11.123470522803114,0,0
+Mio Hydrate Zero Sugar Drink Mix Orange,True,3.0,3.49,10,4.5 G,INVERTED_SEMANTICS,3.49,3.0,0.4900000000000002,14.04011461318052,0,1
+Montellier Sparkling Water Clementine,True,1.2,7.49,10,355 ML,INVERTED_SEMANTICS,7.49,1.2,6.29,83.97863818424565,1,1
+Jordanka Carbonated Natural Mineral Water,True,2.49,2.99,1,1.5 L,INVERTED_SEMANTICS,2.99,2.49,0.5,16.722408026755854,1,1
+Allen's Strawberry Banana Cocktail,True,2.99,3.79,8,200 ML,INVERTED_SEMANTICS,3.79,2.99,0.7999999999999998,21.10817941952506,1,1
+Compliments Coffee Pods Breakfast Blend Light Roast,True,9.99,9.99,1,12 EA,EQUAL_PRICES_FAKE_SALE,9.99,9.99,0.0,0.0,0,0
+Tim Hortons Ground Coffee Fine Grind Decaffeinated,True,2.0,12.99,1,300 G,INVERTED_SEMANTICS,12.99,2.0,10.99,84.60354118552733,1,0
+Fever Tree Sparkling Tonic Water Pink Grapefruit,True,1.0,6.99,4,200 ML,INVERTED_SEMANTICS,6.99,1.0,5.99,85.69384835479255,1,1
+Compliments Sparkling Water Original,True,5.99,5.99,12,355 ML,EQUAL_PRICES_FAKE_SALE,5.99,5.99,0.0,0.0,0,1
+Twinings Of London Herbal Tea Lemon & Ginger 50 Tea Bags,True,10.99,10.99,1,Undetermined,EQUAL_PRICES_FAKE_SALE,10.99,10.99,0.0,0.0,0,0
+Compliments Cocktail Cranberry Cherry,True,1.25,4.25,1,1.89 L,INVERTED_SEMANTICS,4.25,1.25,3.0,70.58823529411765,1,1
+Kool-Aid Liquid Drink Mix Cherry,True,3.0,3.49,1,48 ML,INVERTED_SEMANTICS,3.49,3.0,0.4900000000000002,14.04011461318052,0,1
+7Up Soft Drink Lemon Lime,True,7.99,8.99,12,355 ML,INVERTED_SEMANTICS,8.99,7.99,1.0,11.123470522803114,0,0
+Compliments Sparkling Water Orange,True,5.99,5.99,12,355 ML,EQUAL_PRICES_FAKE_SALE,5.99,5.99,0.0,0.0,0,1
+Tim Hortons Coffee Pods Original Blend Medium Roast,True,39.99,39.99,1,48 K-CUPS,EQUAL_PRICES_FAKE_SALE,39.99,39.99,0.0,0.0,0,2
+Folgers Coffee Pods Morning Cafe Light Roast,True,22.99,22.99,1,30 K-CUPS,EQUAL_PRICES_FAKE_SALE,22.99,22.99,0.0,0.0,0,2
+Canada Dry Club Bottle Soda,True,2.49,2.99,1,2 L,INVERTED_SEMANTICS,2.99,2.49,0.5,16.722408026755854,1,1
+Bubly Sparkling Water Mango,True,1.2,7.49,12,355 ML,INVERTED_SEMANTICS,7.49,1.2,6.29,83.97863818424565,1,1
+Diet Coke Caffeine-Free Soda Fridge Pack,True,7.99,8.99,12,355 ML,INVERTED_SEMANTICS,8.99,7.99,1.0,11.123470522803114,0,0
+Oasis Hydrafruit Juice Boxes Fruit Fusion,True,4.79,4.79,8,200 ML,EQUAL_PRICES_FAKE_SALE,4.79,4.79,0.0,0.0,0,1
+Chubby Soft Drink Pineapple Sunshine,True,0.5,0.69,1,250 ML,INVERTED_SEMANTICS,0.69,0.5,0.18999999999999995,27.536231884057965,1,1
+Maxwell House Coffee Pods 100% Arabica Dark Roast,True,7.0,22.99,1,30 K-CUPS,INVERTED_SEMANTICS,22.99,7.0,15.989999999999998,69.5519791213571,1,0
+Minute Maid Juice Grape Punch (cartons),True,4.29,4.29,10,200 ML,EQUAL_PRICES_FAKE_SALE,4.29,4.29,0.0,0.0,0,1
+Starbucks Whole Bean Coffee Pike Place Medium Roast,True,27.99,27.99,1,907 G,EQUAL_PRICES_FAKE_SALE,27.99,27.99,0.0,0.0,0,2
+Crush Soft Drink Cream Soda,True,7.99,8.99,12,355 ML,INVERTED_SEMANTICS,8.99,7.99,1.0,11.123470522803114,0,0
+COMPLIMENTS with Mango Lemonade,True,3.47,3.47,1,1.36 L,EQUAL_PRICES_FAKE_SALE,3.47,3.47,0.0,0.0,0,1
+Compliments Soft Drink Root Beer,True,1.5,1.5,1,2 L,EQUAL_PRICES_FAKE_SALE,1.5,1.5,0.0,0.0,0,1
+Compliments Soft Drink Black Cherry,True,1.5,1.5,1,2 L,EQUAL_PRICES_FAKE_SALE,1.5,1.5,0.0,0.0,0,1
+Gatorade G Zero Glacier Cherry Drink,True,1.2,7.49,6,591 ML,INVERTED_SEMANTICS,7.49,1.2,6.29,83.97863818424565,1,1
+Compliments Coffee Pods 100% Colombian Medium Roast,True,9.99,9.99,1,12 PODS,EQUAL_PRICES_FAKE_SALE,9.99,9.99,0.0,0.0,0,0
+Gatorade G Zero Sports Drink Glacier Freeze,True,1.2,7.49,8,355 ML,INVERTED_SEMANTICS,7.49,1.2,6.29,83.97863818424565,1,1
+Sun Exotic Juice Drink Pineapple Ginger,True,2.0,2.49,1,1 L,INVERTED_SEMANTICS,2.49,2.0,0.4900000000000002,19.678714859437758,1,1
+Ocean Spray Juice Cocktail Cranberry,True,7.99,7.99,1,3 L,EQUAL_PRICES_FAKE_SALE,7.99,7.99,0.0,0.0,0,0
+Oasis Fruit Juice Classic Apple,True,4.79,4.79,8,200 ML,EQUAL_PRICES_FAKE_SALE,4.79,4.79,0.0,0.0,0,1
+Allen's Peach Cocktail,True,2.99,3.79,8,200 ML,INVERTED_SEMANTICS,3.79,2.99,0.7999999999999998,21.10817941952506,1,1
+Chalo! Juice Drink Mango,True,2.0,2.0,1,1 L,EQUAL_PRICES_FAKE_SALE,2.0,2.0,0.0,0.0,0,1
+Kicking Horse Coffee Organic Ground Coffee Three Sisters Medium Roast,True,29.99,29.99,1,708 G,EQUAL_PRICES_FAKE_SALE,29.99,29.99,0.0,0.0,0,2
+Mio Liquid Water Enhancer Strawberry Watermelon,True,3.0,3.49,1,48 ML,INVERTED_SEMANTICS,3.49,3.0,0.4900000000000002,14.04011461318052,0,1
+Mio Zero Sugar Drink Mix Fruit Punch,True,3.0,3.49,1,26 G,INVERTED_SEMANTICS,3.49,3.0,0.4900000000000002,14.04011461318052,0,1
+Ahmad Green Tea With Cardamom,True,1.5,7.49,1,100 EA,INVERTED_SEMANTICS,7.49,1.5,5.99,79.97329773030708,1,1
+Nabob Ground Coffee Full City Dark Bold Roast,True,4.0,12.99,1,340 G,INVERTED_SEMANTICS,12.99,4.0,8.99,69.20708237105467,1,0
+Roar Organic Drink Cucumber Watermelon,True,2.99,2.99,1,532 ML,EQUAL_PRICES_FAKE_SALE,2.99,2.99,0.0,0.0,0,1
+Fruitopia Juice Fruit Integration,True,2.99,2.99,1,1.75 L,EQUAL_PRICES_FAKE_SALE,2.99,2.99,0.0,0.0,0,1
+Del Monte Juice Pear Nectar,True,1.0,2.79,1,960 ML,INVERTED_SEMANTICS,2.79,1.0,1.79,64.15770609318997,1,1
+Ovaltine Malt Drink Mix Chocolate,True,6.17,6.17,1,400 G,EQUAL_PRICES_FAKE_SALE,6.17,6.17,0.0,0.0,0,1
+Mio Liquid Water Enhancer Fruit Punch,True,3.0,3.49,1,48 ML,INVERTED_SEMANTICS,3.49,3.0,0.4900000000000002,14.04011461318052,0,1
+Compliments Low Calorie Cocktail Cranberry Raspberry,True,1.25,4.25,1,1.89 L,INVERTED_SEMANTICS,4.25,1.25,3.0,70.58823529411765,1,1
+Red Bull Energy Drink Yellow Edition Tropical,True,10.0,10.0,4,250 ML,EQUAL_PRICES_FAKE_SALE,10.0,10.0,0.0,0.0,0,0
+Minute Maid Zero Sugar Lemonade,True,1.5,4.99,1,1.54 L,INVERTED_SEMANTICS,4.99,1.5,3.49,69.93987975951904,1,1
+Minute Maid Juice Berry Punch (cartons),True,4.29,4.29,10,200 ML,EQUAL_PRICES_FAKE_SALE,4.29,4.29,0.0,0.0,0,1
+Compliments Soft Drink Cream Soda,True,1.5,1.5,1,2 L,EQUAL_PRICES_FAKE_SALE,1.5,1.5,0.0,0.0,0,1
+Red Bull Energy Drink Sugar Free,True,5.29,5.29,1,473 ML,EQUAL_PRICES_FAKE_SALE,5.29,5.29,0.0,0.0,0,1
+Lavazza Coffee Capsules Espresso Ristretto,True,9.99,9.99,1,57 G,EQUAL_PRICES_FAKE_SALE,9.99,9.99,0.0,0.0,0,0
+Maxwell House Ground Coffee Breakfast Blend,True,2.0,17.99,1,900 G,INVERTED_SEMANTICS,17.99,2.0,15.989999999999998,88.88271261812118,1,0
+Red Rose Black Tea Orange Pekoe 140 Tea Bags,True,9.99,9.99,1,Undetermined,EQUAL_PRICES_FAKE_SALE,9.99,9.99,0.0,0.0,0,0
+Crystal Light Liquid Drink Mix Strawberry Lemonbabe,True,3.0,3.49,1,48 ML,INVERTED_SEMANTICS,3.49,3.0,0.4900000000000002,14.04011461318052,0,1
+Jarritos Soft Drink Strawberry Fruit,True,2.49,2.49,1,370 ML,EQUAL_PRICES_FAKE_SALE,2.49,2.49,0.0,0.0,0,1
+Starbucks Iced Coffee Blonde Roast,True,7.49,7.49,1,1.42 L,EQUAL_PRICES_FAKE_SALE,7.49,7.49,0.0,0.0,0,0
+Tim Hortons Steeped Tea Orange Pekoe,True,8.0,27.99,1,30 K-CUPS,INVERTED_SEMANTICS,27.99,8.0,19.99,71.4183637013219,1,0
+Prime Hydration Sports Drink Ice Pop,True,2.0,2.99,1,500 ML,INVERTED_SEMANTICS,2.99,2.0,0.9900000000000002,33.1103678929766,1,1
+Compliments Soft Drink Cola,True,1.5,1.5,1,2 L,EQUAL_PRICES_FAKE_SALE,1.5,1.5,0.0,0.0,0,1
+Tang Liquid Drink Mix Orange,True,3.49,3.49,1,48 ML,EQUAL_PRICES_FAKE_SALE,3.49,3.49,0.0,0.0,0,1
+Nescafe Instant Coffee Mix Simply Creamy,True,9.99,9.99,16,9 G,EQUAL_PRICES_FAKE_SALE,9.99,9.99,0.0,0.0,0,0
+Dole Juice Drink Light Pineapple,True,4.99,4.99,1,1.36 L,EQUAL_PRICES_FAKE_SALE,4.99,4.99,0.0,0.0,0,1
+Ocean Spray Pure Juice Tart Cherry,True,2.0,8.99,1,946 ML,INVERTED_SEMANTICS,8.99,2.0,6.99,77.75305895439377,1,1
+Compliments Soft Drink Club Soda Low Sodium,True,1.5,1.5,1,2 L,EQUAL_PRICES_FAKE_SALE,1.5,1.5,0.0,0.0,0,1
+Brio Soft Drink Chinotto,True,1.29,1.29,1,355 ML,EQUAL_PRICES_FAKE_SALE,1.29,1.29,0.0,0.0,0,1
+Tetley Pure Green Tea 48 Tea Bags,True,7.99,7.99,1,Undetermined,EQUAL_PRICES_FAKE_SALE,7.99,7.99,0.0,0.0,0,0
+International Delight Iced Coffee Caramel Macchiato,True,6.49,6.99,1,1.89 L,INVERTED_SEMANTICS,6.99,6.49,0.5,7.153075822603719,0,1
+Gatorade Sports Drink Orange,True,1.2,7.49,6,591 ML,INVERTED_SEMANTICS,7.49,1.2,6.29,83.97863818424565,1,1
+3 Crown Green Tea 20 Tea Bags,True,1.99,1.99,1,Undetermined,EQUAL_PRICES_FAKE_SALE,1.99,1.99,0.0,0.0,0,1
+Nestlé Carnation Hot Chocolate Mix Rich And Creamy,True,7.99,7.99,1,450 G,EQUAL_PRICES_FAKE_SALE,7.99,7.99,0.0,0.0,0,0
+Compliments Sparkling Water Ginger Ale,True,5.99,5.99,12,355 ML,EQUAL_PRICES_FAKE_SALE,5.99,5.99,0.0,0.0,0,1
+Nescafe Gold Instant Coffee Dark Roast Premium,True,2.55,9.99,1,100 G,INVERTED_SEMANTICS,9.99,2.55,7.44,74.47447447447448,1,1
+Crystal Light Drink Mix Tea Blends,True,3.0,3.49,1,31 G,INVERTED_SEMANTICS,3.49,3.0,0.4900000000000002,14.04011461318052,0,1
+Tim Hortons Coffee Pods Decaffeinated,True,14.99,14.99,1,12 K-CUPS,EQUAL_PRICES_FAKE_SALE,14.99,14.99,0.0,0.0,0,0
+McCafé Premium Coffee Pods Medium Dark Roast,True,4.0,28.99,1,30 K-CUPS,INVERTED_SEMANTICS,28.99,4.0,24.99,86.20213866850638,1,0
+Tim Hortons Fine Grind French Vanilla Medium Roast,True,2.0,12.99,1,300 G,INVERTED_SEMANTICS,12.99,2.0,10.99,84.60354118552733,1,0
+Nescafé Instant Coffee Mix Sweet & Creamy French Vanilla,True,9.99,9.99,18,19 G,EQUAL_PRICES_FAKE_SALE,9.99,9.99,0.0,0.0,0,0
+Kool-Aid Flavoured Water Beverage Orange,True,3.99,3.99,1,1800 ML,EQUAL_PRICES_FAKE_SALE,3.99,3.99,0.0,0.0,0,1
+McCafé Coffee Pods Medium Dark Roast Decaffeinated,True,16.49,16.49,1,12 K-CUPS,EQUAL_PRICES_FAKE_SALE,16.49,16.49,0.0,0.0,0,0
+Nestlé Carnation Hot Chocolate Mix Variety Pack,True,6.29,6.29,7,25 G,EQUAL_PRICES_FAKE_SALE,6.29,6.29,0.0,0.0,0,1
+Bolthouse Farms Soy & Tea Beverage Vanilla Chai,True,4.99,4.99,1,450 ML,EQUAL_PRICES_FAKE_SALE,4.99,4.99,0.0,0.0,0,1
+Compliments Sparkling Water Fizzy Strawberry Watermelon,True,1.0,1.0,1,1 L,EQUAL_PRICES_FAKE_SALE,1.0,1.0,0.0,0.0,0,1
+Kool-Aid Flavoured Water Beverage Cherry,True,3.99,3.99,1,1.8 L,EQUAL_PRICES_FAKE_SALE,3.99,3.99,0.0,0.0,0,1
+Maison Perrier Sparkling Water Pink Grapefruit,True,8.49,8.49,8,330 ML,EQUAL_PRICES_FAKE_SALE,8.49,8.49,0.0,0.0,0,0
+McCafé Coffee Pods Medium Dark Roast,True,16.49,16.49,1,12 K-CUPS,EQUAL_PRICES_FAKE_SALE,16.49,16.49,0.0,0.0,0,0
+Grolsch Non Alcoholic Beer Pack,True,1.48,7.47,4,500 ML,INVERTED_SEMANTICS,7.47,1.48,5.99,80.18741633199465,1,1
+Gatorade Sports Drink Lemon Lime,True,2.49,2.49,1,710 ML,EQUAL_PRICES_FAKE_SALE,2.49,2.49,0.0,0.0,0,1
+Tetley Tea English Breakfast 60 Tea Bags,True,5.99,5.99,1,Undetermined,EQUAL_PRICES_FAKE_SALE,5.99,5.99,0.0,0.0,0,1
+Nescafe Instant Coffee Mix Rich Caramel Flavoured,True,7.99,7.99,1,100 G,EQUAL_PRICES_FAKE_SALE,7.99,7.99,0.0,0.0,0,0
+Compliments ZAZ Liquid Water Enhancer Cranberry Raspberry,True,2.0,2.79,1,48 ML,INVERTED_SEMANTICS,2.79,2.0,0.79,28.31541218637993,1,1
+Dole Premium Juice Pineapple,True,4.99,4.99,1,1.36 L,EQUAL_PRICES_FAKE_SALE,4.99,4.99,0.0,0.0,0,1
+Kicking Horse Coffee Pods Three Sisters Medium Roast,True,4.0,28.99,1,24 K-CUPS,INVERTED_SEMANTICS,28.99,4.0,24.99,86.20213866850638,1,0
+Compliments Marshmallows Hot Chocolate Mix With Real Cocoa,True,5.49,5.49,1,500 G,EQUAL_PRICES_FAKE_SALE,5.49,5.49,0.0,0.0,0,1
+Compliments Hot Chocolate Mix Mint,True,5.49,5.49,1,500 G,EQUAL_PRICES_FAKE_SALE,5.49,5.49,0.0,0.0,0,1
+Tetley Black Tea Orange Pekoe 216 Tea Bags,True,12.99,12.99,1,Undetermined,EQUAL_PRICES_FAKE_SALE,12.99,12.99,0.0,0.0,0,0
+Compliments Soft Drink Choose Up Lemon Lime,True,1.5,1.5,1,2 L,EQUAL_PRICES_FAKE_SALE,1.5,1.5,0.0,0.0,0,1
+Compliments Soft Drink Grape,True,1.5,1.5,1,2 L,EQUAL_PRICES_FAKE_SALE,1.5,1.5,0.0,0.0,0,1
+Tim Hortons Coffee Pods Decaffeinated Medium Roast,True,8.0,27.99,1,30 K-CUPS,INVERTED_SEMANTICS,27.99,8.0,19.99,71.4183637013219,1,0
+Tim Hortons Ground Coffee Fine Grind Dark Roast,True,2.0,12.99,1,300 G,INVERTED_SEMANTICS,12.99,2.0,10.99,84.60354118552733,1,0
+Lavazza Whole Bean Coffee Qualita Rossa 1 kg,True,29.99,29.99,1,Undetermined,EQUAL_PRICES_FAKE_SALE,29.99,29.99,0.0,0.0,0,2
+Compliments Sparkling Water Blackberry,True,1.0,1.0,1,1 L,EQUAL_PRICES_FAKE_SALE,1.0,1.0,0.0,0.0,0,1
+Kiju Organic Fruit Juice Mango Orange,True,1.0,3.99,4,200 ML,INVERTED_SEMANTICS,3.99,1.0,2.99,74.93734335839599,1,1
+Nestlé Milo Chocolate Drink Mix,True,6.29,6.29,1,400 G,EQUAL_PRICES_FAKE_SALE,6.29,6.29,0.0,0.0,0,1
+Paradise 100% Juice Pineapple,True,2.49,2.49,1,520 ML,EQUAL_PRICES_FAKE_SALE,2.49,2.49,0.0,0.0,0,1
+Del Monte Fruit Blend Guava,True,1.0,2.79,1,960 ML,INVERTED_SEMANTICS,2.79,1.0,1.79,64.15770609318997,1,1
+Red Bull Energy Drink The Red Edition Watermelon,True,2.77,3.49,1,250 ML,INVERTED_SEMANTICS,3.49,2.77,0.7200000000000002,20.630372492836678,1,1
+Allen's Lemonade Juice Boxes,True,2.99,3.79,8,200 ML,INVERTED_SEMANTICS,3.79,2.99,0.7999999999999998,21.10817941952506,1,1
+Compliments Tea English Breakfast 48 Tea Bags,True,4.0,4.0,1,Undetermined,EQUAL_PRICES_FAKE_SALE,4.0,4.0,0.0,0.0,0,1
+Best Buy Black Tea Two Cup Orange Pekoe 100 Tea Bags,True,3.0,3.0,1,Undetermined,EQUAL_PRICES_FAKE_SALE,3.0,3.0,0.0,0.0,0,1
+Mott's Clamato Mixer Juice Pickled Bean,True,3.99,4.79,1,1.89 L,INVERTED_SEMANTICS,4.79,3.99,0.7999999999999998,16.70146137787056,1,1
+Rubicon Dragon Fruit Juice,True,2.49,2.97,1,1 L,INVERTED_SEMANTICS,2.97,2.49,0.48,16.16161616161616,1,1
+Mio Zero Sugar Energy Drink Mix Grape,True,3.0,3.49,10,3.3 G,INVERTED_SEMANTICS,3.49,3.0,0.4900000000000002,14.04011461318052,0,1
+Alani Nu Energy Drink Blue Slush,True,3.29,3.29,1,355 ML,EQUAL_PRICES_FAKE_SALE,3.29,3.29,0.0,0.0,0,1
+Tim Hortons Black Tea Earl Grey 20 Tea Bags,True,4.99,4.99,1,Undetermined,EQUAL_PRICES_FAKE_SALE,4.99,4.99,0.0,0.0,0,1
+Kicking Horse Coffee Organic Whole Bean Coffee Three Sisters Medium Roast,True,7.0,24.99,1,454 G,INVERTED_SEMANTICS,24.99,7.0,17.99,71.98879551820728,1,0
+Bolthouse Farms Cold Brew Coffee Mocha Cappuccino,True,4.99,4.99,1,450 ML,EQUAL_PRICES_FAKE_SALE,4.99,4.99,0.0,0.0,0,1
+Red Bull Sugar-Free Energy Drinks The Summer Edition Sudachi Lime,True,2.77,3.49,1,250 ML,INVERTED_SEMANTICS,3.49,2.77,0.7200000000000002,20.630372492836678,1,1
+Young Coconut 1 Count,True,4.99,4.99,1,Undetermined,EQUAL_PRICES_FAKE_SALE,4.99,4.99,0.0,0.0,0,1
+Kicking Horse Organic Whole Bean Coffee Dark Horse Power,True,7.0,24.99,1,454 G,INVERTED_SEMANTICS,24.99,7.0,17.99,71.98879551820728,1,0
+Tim Hortons Coffee Pods French Vanilla,True,14.99,14.99,1,12 K-CUPS,EQUAL_PRICES_FAKE_SALE,14.99,14.99,0.0,0.0,0,0
+Starbucks Ground Coffee K-CUP Pods Caramel Flavoured 10 Count,True,13.99,13.99,1,Undetermined,EQUAL_PRICES_FAKE_SALE,13.99,13.99,0.0,0.0,0,0
+Maxwell House Ground Coffee Dark Roast,True,2.0,17.99,1,900 G,INVERTED_SEMANTICS,17.99,2.0,15.989999999999998,88.88271261812118,1,0
+Kiju Organic Juice Apple,True,1.0,3.99,4,200 ML,INVERTED_SEMANTICS,3.99,1.0,2.99,74.93734335839599,1,1
+Deep Pulp Kesar Mango,True,4.49,4.49,1,850 G,EQUAL_PRICES_FAKE_SALE,4.49,4.49,0.0,0.0,0,1
+Tetley Tea Earl Grey 48 Tea Bags,True,7.99,7.99,1,Undetermined,EQUAL_PRICES_FAKE_SALE,7.99,7.99,0.0,0.0,0,0
+Del Monte Juice Blend Dragon Fruit Raspberry,True,1.0,2.79,1,1 L,INVERTED_SEMANTICS,2.79,1.0,1.79,64.15770609318997,1,1
+Mio Liquid Water Enhancer Lemonade,True,3.0,3.49,1,48 ML,INVERTED_SEMANTICS,3.49,3.0,0.4900000000000002,14.04011461318052,0,1
+Compliments Choose Up Soft Drink Zero Sugar Lemon-Lime,True,5.99,6.49,12,355 ML,INVERTED_SEMANTICS,6.49,5.99,0.5,7.704160246533127,0,1
+Red Bull The Winter Edition Energy Drink Iced Vanilla Berry,True,2.77,3.49,1,250 ML,INVERTED_SEMANTICS,3.49,2.77,0.7200000000000002,20.630372492836678,1,1
+Compliments Drink Lemonade With Lime,True,2.0,2.0,1,2 L,EQUAL_PRICES_FAKE_SALE,2.0,2.0,0.0,0.0,0,1
+Compliments Soft Drink Club Soda,True,5.99,6.49,12,355 ML,INVERTED_SEMANTICS,6.49,5.99,0.5,7.704160246533127,0,1
+San Pellegrino Sparkling Beverage Light Pomegranate & Orange,True,7.99,7.99,6,330 ML,EQUAL_PRICES_FAKE_SALE,7.99,7.99,0.0,0.0,0,0
+Tim Hortons Coffee Pods 100% Colombian Dark Medium Roast,True,14.99,14.99,1,12 K-CUPS,EQUAL_PRICES_FAKE_SALE,14.99,14.99,0.0,0.0,0,0
+Folgers Coffee Pods Vanilla Biscotti,True,9.99,9.99,1,12 K-CUPS,EQUAL_PRICES_FAKE_SALE,9.99,9.99,0.0,0.0,0,0
+Twinings Herbal Tea Lemon & Ginger 20 Tea Bags,True,1.05,5.49,1,Undetermined,INVERTED_SEMANTICS,5.49,1.05,4.44,80.87431693989072,1,1
+Tetley Caffeine-Free Care Herbal Tea Lemon Ginger 20 Tea Bags,True,4.99,4.99,1,Undetermined,EQUAL_PRICES_FAKE_SALE,4.99,4.99,0.0,0.0,0,1
+Ocean Spray Cranberry Strawberry Cocktail White Cran-Strawberry,True,4.49,4.49,1,1.89 L,EQUAL_PRICES_FAKE_SALE,4.49,4.49,0.0,0.0,0,1
+Ting Soft Drink Sparkling Grapefruit,True,1.79,1.99,1,300 ML,INVERTED_SEMANTICS,1.99,1.79,0.19999999999999996,10.050251256281404,0,1
+Mio Liquid Water Enhancer Cranberry Raspberry,True,3.0,3.49,1,48 ML,INVERTED_SEMANTICS,3.49,3.0,0.4900000000000002,14.04011461318052,0,1
+Ahmad Tea Jasmin Green 25 Tagged Tea Bags,True,1.0,2.99,1,50 G,INVERTED_SEMANTICS,2.99,1.0,1.9900000000000002,66.5551839464883,1,1
+Tim Hortons French Vanilla Cappuccino Mix,True,9.99,9.99,1,454 G,EQUAL_PRICES_FAKE_SALE,9.99,9.99,0.0,0.0,0,0
+Compliments Sparkling Water Fizzy Key Lime,True,1.0,1.0,1,1 L,EQUAL_PRICES_FAKE_SALE,1.0,1.0,0.0,0.0,0,1
+Monster Energy Drink Zero Sugar Ultra Vice Guava,True,3.49,3.49,1,473 ML,EQUAL_PRICES_FAKE_SALE,3.49,3.49,0.0,0.0,0,1
+Red Bull Sugar-Free Energy Drinks The Summer Edition Sudachi Lime,True,10.0,10.0,4,250 ML,EQUAL_PRICES_FAKE_SALE,10.0,10.0,0.0,0.0,0,0
+Zevia Sugar-Free Soda Orange Creamsicle,True,7.49,7.49,6,355 ML,EQUAL_PRICES_FAKE_SALE,7.49,7.49,0.0,0.0,0,0
+Maxwell House Coffee Pods Original Roast,True,7.0,22.99,1,30 K-CUPS,INVERTED_SEMANTICS,22.99,7.0,15.989999999999998,69.5519791213571,1,0
+Coca-Cola Diet Coke Soft Drink Cherry,True,7.99,8.99,12,355 ML,INVERTED_SEMANTICS,8.99,7.99,1.0,11.123470522803114,0,0
+Tim Hortons Unsweetened Medium Iced Coffee,True,7.99,7.99,1,1.42 L,EQUAL_PRICES_FAKE_SALE,7.99,7.99,0.0,0.0,0,0
+Gatorade Perform Sports Drink Fruit Punch,True,1.2,7.49,8,355 ML,INVERTED_SEMANTICS,7.49,1.2,6.29,83.97863818424565,1,1
+Roar Organic Drink Strawberry Lemonade,True,2.99,2.99,1,532 ML,EQUAL_PRICES_FAKE_SALE,2.99,2.99,0.0,0.0,0,1
+Nescafe Instant Coffee Intense Roast,True,7.99,7.99,1,160 G,EQUAL_PRICES_FAKE_SALE,7.99,7.99,0.0,0.0,0,0
+Folgers Ground Coffee Mountain Roast,True,19.99,19.99,1,865 G,EQUAL_PRICES_FAKE_SALE,19.99,19.99,0.0,0.0,0,2
+Fuze Naturally Flavoured Iced Tea White Peach,True,7.49,7.49,12,341 ML,EQUAL_PRICES_FAKE_SALE,7.49,7.49,0.0,0.0,0,0
+Sunny Delight Drink Tangy Original,True,1.49,1.49,1,500 ML,EQUAL_PRICES_FAKE_SALE,1.49,1.49,0.0,0.0,0,1
+Kicking Horse Coffee Pods Happy Camper Medium Roast,True,28.99,28.99,1,24 K-CUPS,EQUAL_PRICES_FAKE_SALE,28.99,28.99,0.0,0.0,0,2
+Tim Hortons Unsweetened Vanilla Iced Coffee,True,7.99,7.99,1,1.42 L,EQUAL_PRICES_FAKE_SALE,7.99,7.99,0.0,0.0,0,0
+Fruite Beverage Grape,True,3.29,3.29,1,1.54 L,EQUAL_PRICES_FAKE_SALE,3.29,3.29,0.0,0.0,0,1
+San Pellegrino Aranciatta Rossa Sparkling Blood Orange,True,7.99,7.99,6,330 ML,EQUAL_PRICES_FAKE_SALE,7.99,7.99,0.0,0.0,0,0
+Fuze Naturally Flavoured Iced Tea Zero Sugar Lemon,True,7.49,7.49,12,341 ML,EQUAL_PRICES_FAKE_SALE,7.49,7.49,0.0,0.0,0,0
+OKF Sugar-Free Vera Aloe Drink,True,3.99,3.99,1,1.5 L,EQUAL_PRICES_FAKE_SALE,3.99,3.99,0.0,0.0,0,1
+Fuze Naturally Flavoured Iced Tea Raspberry,True,7.49,7.49,12,341 ML,EQUAL_PRICES_FAKE_SALE,7.49,7.49,0.0,0.0,0,0
+Fuze-KO Ice Tea Mango & Pineapple,True,7.49,7.49,12,341 ML,EQUAL_PRICES_FAKE_SALE,7.49,7.49,0.0,0.0,0,0
+Gatorade Zero Sports Drink Grape,True,1.2,7.49,6,591 ML,INVERTED_SEMANTICS,7.49,1.2,6.29,83.97863818424565,1,1
+Canada Dry Diet Soft Drink Ginger Ale,True,4.79,4.79,6,222 ML,EQUAL_PRICES_FAKE_SALE,4.79,4.79,0.0,0.0,0,1
+Compliments ZAZ Liquid Water Enhancer Peach Mango,True,2.0,2.79,1,48 ML,INVERTED_SEMANTICS,2.79,2.0,0.79,28.31541218637993,1,1
+Nescafe Espresso Concentrate Black,True,2.55,9.99,1,0.5 L,INVERTED_SEMANTICS,9.99,2.55,7.44,74.47447447447448,1,1
+Compliments Juice Lemonade,True,3.47,3.47,1,1.54 L,EQUAL_PRICES_FAKE_SALE,3.47,3.47,0.0,0.0,0,1
+Nestlé Carnation Hot Chocolate Mix Simply 5 Ingredients,True,7.99,7.99,1,400 G,EQUAL_PRICES_FAKE_SALE,7.99,7.99,0.0,0.0,0,0
+Nescafé Gold Instant Coffee Cappuccino,True,7.49,7.49,8,14 G,EQUAL_PRICES_FAKE_SALE,7.49,7.49,0.0,0.0,0,0
+Oasis Juice Boxes Tropical Passion,True,4.79,4.79,8,200 ML,EQUAL_PRICES_FAKE_SALE,4.79,4.79,0.0,0.0,0,1
+Compliments ZAZ Liquid Water Enhancer Lemonade,True,2.0,2.79,1,48 ML,INVERTED_SEMANTICS,2.79,2.0,0.79,28.31541218637993,1,1
+Compliments Sparkling Water Grapefruit,True,1.0,1.0,1,1 L,EQUAL_PRICES_FAKE_SALE,1.0,1.0,0.0,0.0,0,1
+Compliments Coffee Pods Vanilla Hazelnut Light Medium,True,9.99,9.99,1,12 EA,EQUAL_PRICES_FAKE_SALE,9.99,9.99,0.0,0.0,0,0
+Red Bull Energy Drink Pink Edition Wild Berries,True,10.0,10.0,4,250 ML,EQUAL_PRICES_FAKE_SALE,10.0,10.0,0.0,0.0,0,0
+Red Bull Energy Drinks The Summer Edition Sudachi Lime,True,10.0,10.0,4,250 ML,EQUAL_PRICES_FAKE_SALE,10.0,10.0,0.0,0.0,0,0
+Fanta Soft Drink Strawberry,True,7.99,8.99,12,355 ML,INVERTED_SEMANTICS,8.99,7.99,1.0,11.123470522803114,0,0
+Alani Nu Energy Drink Watermelon Wave,True,3.29,3.29,1,355 ML,EQUAL_PRICES_FAKE_SALE,3.29,3.29,0.0,0.0,0,1
+Alani Nu Energy Drink Cherry Twist Cherry Twist Energy Drink,True,3.29,3.29,1,355 ML,EQUAL_PRICES_FAKE_SALE,3.29,3.29,0.0,0.0,0,1
+Lipton Brisk Iced Tea Lemonade,True,7.99,8.99,12,355 ML,INVERTED_SEMANTICS,8.99,7.99,1.0,11.123470522803114,0,0
+Kicking Horse Coffee Organic Whole Bean Coffee Kick Ass Dark Roast,True,32.99,32.99,1,850 G,EQUAL_PRICES_FAKE_SALE,32.99,32.99,0.0,0.0,0,2
+Roar Organic Vitamin Enhanced Beverage Georgia Peach,True,2.99,2.99,1,532 ML,EQUAL_PRICES_FAKE_SALE,2.99,2.99,0.0,0.0,0,1
+Ahmad Tea Cardamom Tea 100 Tagged Tea Bags,True,1.0,7.49,1,Undetermined,INVERTED_SEMANTICS,7.49,1.0,6.49,86.64886515353804,1,1
+Compliments Lemonade Raspberry,True,2.99,2.99,1,1.89 L,EQUAL_PRICES_FAKE_SALE,2.99,2.99,0.0,0.0,0,1
+Crush Zero Sugar Soft Drink Orange,True,7.99,8.99,12,355 ML,INVERTED_SEMANTICS,8.99,7.99,1.0,11.123470522803114,0,0
+Fanta Caffeine-Free Sparkling Beverage Crimson Sour Cherry,True,7.99,8.99,12,355 ML,INVERTED_SEMANTICS,8.99,7.99,1.0,11.123470522803114,0,0
+Crystal Light Drink Mix Singles Lemon Lime,True,3.49,3.49,1,36 G,EQUAL_PRICES_FAKE_SALE,3.49,3.49,0.0,0.0,0,1
+Red Bull Energy Drink The Summer Edition Sudachi Lime,True,2.77,3.49,1,250 ML,INVERTED_SEMANTICS,3.49,2.77,0.7200000000000002,20.630372492836678,1,1
+Compliments Sparkling Water Strawberry Hibiscus,True,1.0,1.0,1,1 L,EQUAL_PRICES_FAKE_SALE,1.0,1.0,0.0,0.0,0,1
+Kool-Aid Liquid Drink Mix Watermelon,True,3.0,3.49,1,48 ML,INVERTED_SEMANTICS,3.49,3.0,0.4900000000000002,14.04011461318052,0,1
+Sprite Zero Sugar Soda Tea,True,7.99,8.99,12,355 ML,INVERTED_SEMANTICS,8.99,7.99,1.0,11.123470522803114,0,0
+Ocean Spray Sparkling Juice Cranberry Mango,True,7.49,7.49,6,340 ML,EQUAL_PRICES_FAKE_SALE,7.49,7.49,0.0,0.0,0,0
+Lavazza Coffee Ground Qualita Oro,True,9.99,9.99,1,55 G,EQUAL_PRICES_FAKE_SALE,9.99,9.99,0.0,0.0,0,0
+Hydration Blue Chill Beverage,True,2.99,2.99,1,500 ML,EQUAL_PRICES_FAKE_SALE,2.99,2.99,0.0,0.0,0,1
+Icee Slush White Cherry,True,1.99,1.99,1,177 ML,EQUAL_PRICES_FAKE_SALE,1.99,1.99,0.0,0.0,0,1
+Prime Hydra Zero Grape Ice Sports Drink,True,2.99,2.99,1,500 ML,EQUAL_PRICES_FAKE_SALE,2.99,2.99,0.0,0.0,0,1
+Alani Nu Pink Slush Energy Drink,True,3.29,3.29,1,355 ML,EQUAL_PRICES_FAKE_SALE,3.29,3.29,0.0,0.0,0,1
+Tetley Green Tea Honey Lemon Ginseng 24 Tea Bags,True,4.99,4.99,1,Undetermined,EQUAL_PRICES_FAKE_SALE,4.99,4.99,0.0,0.0,0,1
+Compliments Carbonated Spring Water Lemon Lime,True,1.69,1.69,1,2 L,EQUAL_PRICES_FAKE_SALE,1.69,1.69,0.0,0.0,0,1
+Clearly Canadian Sparkling Water Mountain Blackberry,True,7.99,7.99,6,355 ML,EQUAL_PRICES_FAKE_SALE,7.99,7.99,0.0,0.0,0,0
+Red Bull Energy Drink Tropical,True,4.49,4.49,1,355 ML,EQUAL_PRICES_FAKE_SALE,4.49,4.49,0.0,0.0,0,1
+Compliments Green Tea 72 Tea Bags,True,4.0,4.0,1,Undetermined,EQUAL_PRICES_FAKE_SALE,4.0,4.0,0.0,0.0,0,1
+Fever-Tree Sparkling Drink Lime & Yuzu,True,1.0,6.99,4,200 ML,INVERTED_SEMANTICS,6.99,1.0,5.99,85.69384835479255,1,1
+Red Bull Energy Drink Zero Sugar,True,4.49,4.49,1,355 ML,EQUAL_PRICES_FAKE_SALE,4.49,4.49,0.0,0.0,0,1
+Oasis HydraFruit Juice Strawberry Banana,True,2.79,2.79,1,960 ML,EQUAL_PRICES_FAKE_SALE,2.79,2.79,0.0,0.0,0,1
+Red Bull Sugar-Free The Spring Edition Energy Drink Cherry & Sakura,True,10.0,10.0,4,250 ML,EQUAL_PRICES_FAKE_SALE,10.0,10.0,0.0,0.0,0,0
+Vita Coco Coconut Water,True,5.49,5.49,1,1 L,EQUAL_PRICES_FAKE_SALE,5.49,5.49,0.0,0.0,0,1
+Variety Pack Pop,True,15.99,15.99,24,355 ML,EQUAL_PRICES_FAKE_SALE,15.99,15.99,0.0,0.0,0,0
+Diet Coke Caffeine Free Soda,True,2.49,2.99,1,2 L,INVERTED_SEMANTICS,2.99,2.49,0.5,16.722408026755854,1,1

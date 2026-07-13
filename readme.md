@@ -6,7 +6,7 @@ Built an automated, end-to-end data engineering and machine learning pipeline th
 
 - Detailed Pipeline Architecture
 1. Live Web Ingestion & Orchestration
-The Process: Designed a dynamic web-scraping layer configured to simulate real-time user requests across Freshco's live digital storefront.
+The Process: Designed a dynamic web-scraping layer configured to simulate real-time user requests across **Freshco's live digital storefront.** (https://www.freshco.com/products/category/Drinks)
 
 The Output: Automates daily extraction of localized, live product titles, categories, structural pricing details, and active promotional banners, pipe-lining raw data instantly into the processing engine.
 

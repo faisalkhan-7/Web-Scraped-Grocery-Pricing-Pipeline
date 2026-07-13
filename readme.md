@@ -18,3 +18,6 @@ An end-to-end data engineering and machine learning pipeline that ingests raw, m
 ├── .gitignore
 ├── requirements.txt              # Required python packages
 └── README.md                     # Project summary and documentation
+
+[E-Commerce Presentation.pdf](https://github.com/user-attachments/files/29950291/E-Commerce.Presentation.pdf)
+
